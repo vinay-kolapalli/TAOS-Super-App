@@ -20,6 +20,7 @@ pnpm install
 Run the development server:
 pnpm dev
 Open http://localhost:3000 in your browser
+
 📊 Axiom Logging Setup
 This project uses Axiom.co for structured logging. You need to create the following map fields in your Axiom dataset:
 
