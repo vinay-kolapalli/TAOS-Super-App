@@ -1,0 +1,4 @@
+pincode,fully_serviceable,partial_serviceable,delivery_areas,non_delivery_areas
+506001,true,false,Area 1,Area 2
+506002,false,true,Area 3,Area 4
+506003,true,false,Area 5,Area 6
